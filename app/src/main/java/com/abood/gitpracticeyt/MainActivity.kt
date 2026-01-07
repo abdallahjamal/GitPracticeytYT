@@ -21,6 +21,8 @@ class MainActivity : ComponentActivity() {
             GitPracticeytTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     println("The First")
+                    println("Experimental")
+
                 }
             }
         }
