@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitPracticeytTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    val errorVariable = "هاد الكود رح يخرب التطبيق"
+                    println("The First")
                 }
             }
         }
