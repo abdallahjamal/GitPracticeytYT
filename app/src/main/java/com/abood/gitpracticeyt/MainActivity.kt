@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                     // Search logic here
                     println("The First")
                     println("Experimental")
+                    println("Hello from your friend")
                 }
             }
         }
