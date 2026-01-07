@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitPracticeytTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    val buttonColor = "Red"
                     // Search logic here
                     println("The First")
                     println("Experimental")
