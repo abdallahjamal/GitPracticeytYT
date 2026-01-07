@@ -20,9 +20,9 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitPracticeytTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    // Search logic here
                     println("The First")
                     println("Experimental")
-
                 }
             }
         }
